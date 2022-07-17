@@ -1,0 +1,89 @@
+[2022-07-17 16:18:45,481: INFO: main]: 
+
+
+[2022-07-17 16:18:45,488: INFO: main]: Logging from Strings Operations Class
+[2022-07-17 16:18:45,489: INFO: main]: 
+
+
+[2022-07-17 16:18:45,489: INFO: main]: creating a new string
+[2022-07-17 16:18:45,489: INFO: StringsOperations]: StringOperation Class imported
+[2022-07-17 16:18:45,489: INFO: main]: String operations
+[2022-07-17 16:18:45,489: INFO: main]: String operations Question number 1 
+[2022-07-17 16:18:45,489: INFO: StringsOperations]: success in extract_jump - h   r tnrrmglsnimeNGyosi dtfco
+[2022-07-17 16:18:45,489: INFO: main]: String operations Question number 2 
+[2022-07-17 16:18:45,490: INFO: StringsOperations]: reversing the string
+[2022-07-17 16:18:45,490: INFO: main]: String operations Question number 3 
+[2022-07-17 16:18:45,490: INFO: StringsOperations]: Converting the string to upper case and then splitting
+[2022-07-17 16:18:45,490: INFO: main]: String operations Question number 4 
+[2022-07-17 16:18:45,490: INFO: StringsOperations]: Converting the string to lower case
+[2022-07-17 16:18:45,490: INFO: main]: String operations Question number 5 
+[2022-07-17 16:18:45,490: INFO: StringsOperations]: Capitalizing the string
+[2022-07-17 16:18:45,490: INFO: main]: String operations Question number 6 
+[2022-07-17 16:18:45,490: INFO: StringsOperations]: trying stripp
+[2022-07-17 16:18:45,491: INFO: StringsOperations]: x == 's' found
+[2022-07-17 16:18:45,491: INFO: main]: String operations Question number 7 
+[2022-07-17 16:18:45,491: INFO: StringsOperations]: Slicing the string from 2 to 5 with step size1
+[2022-07-17 16:18:45,491: INFO: main]: String operations Question number 8 
+[2022-07-17 16:18:45,491: INFO: StringsOperations]: Replacing the character S with P
+[2022-07-17 16:18:45,491: INFO: ListsOperations]: ListOperation Class imported
+[2022-07-17 16:18:45,491: INFO: main]: 
+
+
+[2022-07-17 16:18:45,491: INFO: main]: Logging from Lists Operations Class
+[2022-07-17 16:18:45,491: INFO: main]: 
+
+
+[2022-07-17 16:18:45,491: INFO: main]: created a list l <ListsOperations.ListOperations object at 0x000002BF360C4BB0>
+[2022-07-17 16:18:45,491: INFO: main]: Lists Operations
+[2022-07-17 16:18:45,491: INFO: main]: Lists operations Question number 1 
+[2022-07-17 16:18:45,491: INFO: ListsOperations]: Try to reverse the data
+[2022-07-17 16:18:45,491: INFO: main]: Lists operations Question number 2 
+[2022-07-17 16:18:45,491: INFO: ListsOperations]: extract all numeric data
+[2022-07-17 16:18:45,492: INFO: ListsOperations]: Extracted values --> [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234]
+[2022-07-17 16:18:45,492: INFO: main]: Lists operations Question number 3 
+[2022-07-17 16:18:45,492: INFO: ListsOperations]: Accessing 456 in the list
+[2022-07-17 16:18:45,492: INFO: ListsOperations]: extract all numeric data
+[2022-07-17 16:18:45,492: INFO: ListsOperations]: Extracted values --> [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234]
+[2022-07-17 16:18:45,492: INFO: ListsOperations]:  found 456
+[2022-07-17 16:18:45,492: INFO: main]: Lists operations Question number 4 
+[2022-07-17 16:18:45,492: INFO: ListsOperations]: extracting list from data
+[2022-07-17 16:18:45,492: INFO: ListsOperations]: list --> [23, 456, 67, 8, 78, 78]
+[2022-07-17 16:18:45,492: INFO: ListsOperations]: list --> [345, 56, 87, 8, 98, 9]
+[2022-07-17 16:18:45,492: INFO: main]: Lists operations Question number 5 
+[2022-07-17 16:18:45,492: INFO: ListsOperations]: extracted ['sudh']
+[2022-07-17 16:18:45,492: INFO: main]: Lists operations Question number 6 
+[2022-07-17 16:18:45,492: INFO: ListsOperations]: extracting keys from the dictionary
+[2022-07-17 16:18:45,493: INFO: ListsOperations]: keys --> [dict_keys(['key1', 234])]
+[2022-07-17 16:18:45,493: INFO: main]: Lists operations Question number 7 
+[2022-07-17 16:18:45,493: INFO: ListsOperations]: extracting values from the dictionary
+[2022-07-17 16:18:45,493: INFO: ListsOperations]: keys --> [dict_values(['sudh', [23, 45, 656]])]
+[2022-07-17 16:18:45,493: INFO: main]: Lists operations Question number 8 
+[2022-07-17 16:18:45,493: INFO: ListsOperations]: extracting dictionary from data
+[2022-07-17 16:18:45,493: INFO: ListsOperations]: Dictionary --> {'key1': 'sudh', 234: [23, 45, 656]}
+[2022-07-17 16:18:45,493: INFO: main]: Lists operations Question number 9 
+[2022-07-17 16:18:45,493: INFO: ListsOperations]: extracting odd numbers from lists
+[2022-07-17 16:18:45,493: INFO: ListsOperations]: extracting list from data
+[2022-07-17 16:18:45,493: INFO: ListsOperations]: list --> [23, 456, 67, 8, 78, 78]
+[2022-07-17 16:18:45,493: INFO: ListsOperations]: list --> [345, 56, 87, 8, 98, 9]
+[2022-07-17 16:18:45,493: INFO: ListsOperations]: odd numbers [23, 67, 345, 87, 9]
+[2022-07-17 16:18:45,494: INFO: main]: Lists operations Question number 10 
+[2022-07-17 16:18:45,494: INFO: ListsOperations]: extracting tuple from data
+[2022-07-17 16:18:45,494: INFO: ListsOperations]: Tuples --> (234, 6657, 6)
+[2022-07-17 16:18:45,494: INFO: main]: Lists operations Question number 11 
+[2022-07-17 16:18:45,494: INFO: ListsOperations]: Summing up numerical data
+[2022-07-17 16:18:45,494: INFO: ListsOperations]: extract all numeric data
+[2022-07-17 16:18:45,494: INFO: ListsOperations]: Extracted values --> [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234]
+[2022-07-17 16:18:45,494: INFO: ListsOperations]:  Sum = 8444
+[2022-07-17 16:18:45,494: INFO: main]: 
+
+
+[2022-07-17 16:18:45,494: INFO: main]: Logging from Pattern Creator Class
+[2022-07-17 16:18:45,494: INFO: main]: 
+
+
+[2022-07-17 16:18:45,494: INFO: main]: Pattern Creator Question number 1 
+[2022-07-17 16:18:45,494: INFO: PatternCreator]: accessing p1 function
+[2022-07-17 16:18:45,510: INFO: main]: Pattern Creator Question number 2 
+[2022-07-17 16:18:45,510: INFO: PatternCreator]: accessing p2 function
+[2022-07-17 16:18:45,510: INFO: main]: Pattern Creator Question number 3 
+[2022-07-17 16:18:45,511: INFO: PatternCreator]: accessing p1 function
